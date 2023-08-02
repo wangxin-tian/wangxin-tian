@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - ⌨️掘金：https://juejin.cn/user/4046671739628798
-![Github Stats](https://github-readme-stats.vercel.app/api?username=wangxin-tian&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wangxin-tian&layout=compact)
+
 -->
 
 - 💻热爱前端开发
@@ -26,8 +25,8 @@ Here are some ideas to get you started:
 
 # 🎬关于我的 GitHub
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=wangxin-tian&show_icons=true" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wangxin-tian&layout=compact" />
+![Github Stats](https://github-readme-stats.vercel.app/api?username=wangxin-tian&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wangxin-tian&layout=compact)
 
 ## :computer: 语言工具
 
