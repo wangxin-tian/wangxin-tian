@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 -->
 
 - 💻热爱前端开发
-- 📫个人博客：[http://dhxia.xyz:3000/](http://dhxia.xyz:3000/)
+- 📫个人博客：[http://dhxia.xyz:3000/](http://dhxia.xyz:3000/) 备案中请等待 [http://118.195.140.233:3000/home](http://118.195.140.233:3000/home)
 
 请多多指教！🖤🖤🖤
 
