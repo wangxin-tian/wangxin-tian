@@ -8,7 +8,7 @@
 请多多指教！🖤🖤🖤
 
 - 💻热爱前端开发
-- 📫个人博客：[https://docs.dhx-wx.cn/](https://docs.dhx-wx.cn/)
+- 📫个人博客：[http://118.31.39.238:3000/article](http://118.31.39.238:3000/article)
 
 ---
 ### 👇 技术栈
